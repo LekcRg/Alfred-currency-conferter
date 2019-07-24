@@ -1,4 +1,4 @@
-# Currency conferter from euro and dollars to rubbles
+# Currency converter from euro and dollars to rubbles
 
 ![Screenshot](./screenshot.png)
 
